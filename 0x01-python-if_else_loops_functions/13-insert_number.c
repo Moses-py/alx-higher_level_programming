@@ -2,7 +2,7 @@
 
 /**
  * insert_node - Function to inserts a number in a
- *  sorted singly-linked list.
+ * sorted singly-linked list.
  * @head: A pointer the starting element of the linked list.
  * @number: The number to be inserted.
  * Return: Return null if fails or pointer to node otherwise.
