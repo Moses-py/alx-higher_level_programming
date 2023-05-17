@@ -11,4 +11,3 @@ def weight_average(my_list=[]):
         item += tuple[1]
 
     return (numeral / item)
-

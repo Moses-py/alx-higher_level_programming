@@ -5,4 +5,3 @@ def square_matrix_simple(matrix=[]):
         sol = list(map(lambda x: x**2, column))
         store_matrix_arr.append(sol)
     return store_matrix_arr
-

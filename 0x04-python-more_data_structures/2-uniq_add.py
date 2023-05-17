@@ -7,4 +7,3 @@ def uniq_add(my_list=[]):
             sum += item
             list_arr.append(item)
     return sum
-
