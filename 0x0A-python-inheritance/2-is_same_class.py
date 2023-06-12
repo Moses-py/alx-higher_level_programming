@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Define a class-checker."""
 
+
 def is_same_class(obj, a_class):
     """Check if object is instance of class.
 
