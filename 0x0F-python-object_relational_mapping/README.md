@@ -10,7 +10,6 @@ query, create, edit, and delete tables in MySQL.
 for all files. Provided by ALX.
 
 ## Tasks :page_with_curl:
-
 * **0. Get all states**
   * [0-select_states.py](./0-select_states.py): Python script that uses MySQLdb
   to list all states in the database `hbtn_0e_0_usa`.
